@@ -2,7 +2,7 @@
 ## Multi-Tool Project For Telegram By TGToolsFree
 This tool is to scrape members from targeted groups and to add them into your own group.
 
-## New Premium Tool: Full-TG
+## New Premium Tool: Full-TG with more than 31 features
 Buy here: https://shoppy.gg/product/YVdsCk6
 
 # Version 1.659
