@@ -1,9 +1,6 @@
-### Telegram-Add-Members-Scrape-Members-NEW-2023
+### Telegram-Add-Members-Scrape-Members-NEW-2024
 ## Multi-Tool Project For Telegram By TGToolsFree
 This tool is to scrape members from targeted groups and to add them into your own group.
-
-## New Premium Tool: Full-TG with more than 33 features
-Buy here: https://shoppy.gg/product/YVdsCk6
 
 # Version 1.679
 
@@ -41,10 +38,7 @@ Buy here: https://shoppy.gg/product/YVdsCk6
 Follow us on Telegram: https://t.me/TGToolsFree For bug-reports, help or wishes for future features, feel free to contact us on Telegram: https://t.me/SubAdder
 ***
 ### ❤️ Feel free to support us with donations so we can continue this project with our amazing community ❤️
-1. BTC: bc1qy9sq9m86cr8r6jg8qrpk7czknxdt4nvn06xzrr
-2. ETH: 0x348AEAF446ee38fA168045f897206381831c5a9B
-3. DOGE: D5vrWmxSqctx4LzX8Q5ApAqFM5MuxbXPUq
-4. USDT-TRC20: TDXQ2WE2rZoiqksBUvQMnVvSvear8v8aom
+UPI ID: bhavesh1553@paytm
 ***
 ##### Please ⭐ the repo to support our project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
