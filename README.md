@@ -35,7 +35,7 @@ This tool is to scrape members from targeted groups and to add them into your ow
 6. Make sure to watch the tutorial video: https://www.youtube.com/watch?v=MIge995RqEQ
 ***
 
-Follow us on Telegram: https://t.me/TGToolsFree For bug-reports, help or wishes for future features, feel free to contact us on Telegram: https://t.me/SubAdder
+For bug-reports, help or wishes for future features, feel free to contact us on Telegram: https://t.me/bhaveshmanchanda
 ***
 ### ❤️ Feel free to support us with donations so we can continue this project with our amazing community ❤️
 UPI ID: bhavesh1553@paytm
